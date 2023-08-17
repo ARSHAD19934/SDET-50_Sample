@@ -13,5 +13,8 @@ public class AdminTest {
 		System.out.println("run successful as Admin");
 	}
 	
-	
+	@Test
+	public void editAdmin(){
+		System.out.println("edited as Admin");
+	}
 }
